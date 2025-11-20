@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Tax
+comment1.params=
+comment1.target=Tax()
+comment10.params=
+comment10.target=double\ computeTax()
+comment2.params=income
+comment2.target=void\ setIncome(double)
+comment3.params=expense
+comment3.target=void\ setExpense(double)
+comment4.params=taxDeductions
+comment4.target=void\ setTaxDeductions(double)
+comment5.params=
+comment5.target=double\ getIncome()
+comment6.params=
+comment6.target=double\ getExpense()
+comment7.params=
+comment7.target=double\ getTaxDeductions()
+comment8.params=
+comment8.target=double\ getNetIncome()
+comment9.params=
+comment9.target=double\ computeRevenueFinal()
+numComments=11

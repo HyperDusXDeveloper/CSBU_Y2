@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ThaiPerson
+comment1.params=identityID\ name\ surname\ age\ gender
+comment1.target=ThaiPerson(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ char)
+comment2.params=identityID\ age\ gender
+comment2.target=ThaiPerson(java.lang.String,\ int,\ char)
+comment3.params=
+comment3.target=ThaiPerson()
+comment4.params=
+comment4.target=java.lang.String\ getCitizenID()
+comment5.params=citizenID
+comment5.target=void\ setCitizenID(java.lang.String)
+numComments=6

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment10.params=target
+comment10.target=void\ attack(Character)
+comment11.params=
+comment11.target=int\ calculateTotalDefense()
+comment12.params=amount
+comment12.target=void\ takeDamage(int)
+comment2.params=
+comment2.target=int\ getHealthPoints()
+comment3.params=
+comment3.target=int\ getAttackPower()
+comment4.params=
+comment4.target=int\ getDefense()
+comment5.params=name\ maxHp\ attack\ defense
+comment5.target=Character(java.lang.String,\ int,\ int,\ int)
+comment6.params=
+comment6.target=boolean\ isAlive()
+comment7.params=slotNo\ weapon
+comment7.target=void\ addWeapon(int,\ Weapon)
+comment8.params=slotNo\ armor
+comment8.target=void\ addArmor(int,\ Armor)
+comment9.params=
+comment9.target=int\ calculateTotalAttack()
+numComments=13
